@@ -1,5 +1,5 @@
 # PowerShell-Dism
-Demonstrates how to use NuGet package 'Microsoft.PowerShell.Sdk' to execute dism commands. 
+Demonstrates how to use NuGet package 'Microsoft.PowerShell.Sdk' in a .NET 6 project to execute dism commands. 
 
 **Resources**:
 
