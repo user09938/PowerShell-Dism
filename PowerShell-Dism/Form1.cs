@@ -1,10 +1,4 @@
-//https://stackoverflow.com/questions/74584885/how-can-i-programmatically-turn-off-or-on-windows-features/74590448
-//
-//https://stackoverflow.com/questions/8054282/how-can-you-programmatically-turn-off-or-on-windows-features
-//Use DISM in Windows PowerShell: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/use-dism-in-windows-powershell-s14?view=windows-11
-
 using System.Diagnostics;
-using System.Security.Cryptography;
 
 namespace PowerShell_Dism
 {
